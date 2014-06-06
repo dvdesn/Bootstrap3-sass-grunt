@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Bootstrap3+Sass+Grunt SetUp</title>
+	<link href="_/css/bootstrap.css" rel="stylesheet">
+    <link href="_/css/mystyle.css" rel="stylesheet">
+</head>
+<body>
+	<h1>Hello World</h1>
+
+<!-- <script src="_/js/bootstrap.js"></script> -->
+
+<script src="_/js/script.js"></script>
+<script src="http://localhost:35729/livereload.js"></script>
+</body>
+</html>

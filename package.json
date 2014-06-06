@@ -1,0 +1,38 @@
+{
+  "name": "bootstrap-sass-with-grunt-and-bower",
+  "version": "0.0.1",
+  "dependencies" : {
+  "grunt" : "~0.4.1",
+  "grunt-contrib-watch": "~0.5.3",
+  "grunt-contrib-compass": "~0.5.0",
+  "grunt-contrib-uglify": "~0.2.2",
+  "matchdep": "~0.1.2"
+  },
+  "description": "bootstrap-sass is a Sass-powered version of Bootstrap, ready to drop right into your Sass powered applications. I added grunt.js task manager for efficient flow of project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twbs/bootstrap-sass"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "css",
+    "grunt"
+  ],
+  "contributors": [
+    "Thomas McDonald",
+    "Tristan Harward",
+    "Peter Gumeson",
+    "Gleb Mazovetskiy"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twbs/bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/twbs/bootstrap-sass",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Davide Senatra"
+}
