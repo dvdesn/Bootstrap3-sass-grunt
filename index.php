@@ -7,7 +7,8 @@
     <link href="_/css/mystyle.css" rel="stylesheet">
 </head>
 <body>
-	<h1>Hello World</h1>
+	<div class="jumbotron">
+		<h1>Bootstrap + Sass + Grunt Set up </h1><br><div class="btn btn-primary">Just a btn</div> </div>
 
 <!-- <script src="_/js/bootstrap.js"></script> -->
 
